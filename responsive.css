@@ -1,0 +1,132 @@
+@media (max-width: 768px) {
+    
+    #first-section{
+        background-position: -238px -28px;
+        height: 941px;
+        background-size: 1220px;
+    }
+    .certified-box{
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .left-slide-content h5{
+        margin-top: 114px;
+        margin-bottom: 55px;
+        float: left;
+    }
+    .left-slide-content h2{
+        font-size: 35px;
+        width: 381px;
+        line-height: 52px;
+    }
+    .header-logo{
+        width: 40%;
+    }
+    .header-cart{
+        width: 42%;
+    }
+    .header-menu{
+        display: none;
+    }
+    .user_bars-content{
+        width: 64%;
+    }
+
+    .wrapperSlider{
+        display: block;
+        height: auto;
+    }
+    .left-slide-content{
+        width: 100%;
+    }
+    .left-slide-content{
+        width: 100%;
+    }
+
+    .right-slide-left{
+        width: 100%;
+    }
+    .student-list{
+        margin-left: 0px;
+        margin-top: 34px;
+        margin-bottom: 25px;
+    }
+
+    .right-slide-right{
+        width: 100%;
+    }
+
+    .total-student{
+        margin-left: 40px;
+    }
+
+
+
+    /* third section responce */
+    .third-section{
+        width: 100%;
+    }
+    .teacher-part{
+        display: block;
+        width: 100%;
+    }
+    .left-teacher-image{
+        width: 100%;
+    }
+    .right-teacher-content{
+        width: 100%;
+        margin-top: 61px;
+    }
+
+    /* second section */
+
+    .access-parent{
+        flex-wrap: wrap;
+    }
+    .access-child{
+        width: 48%;
+    }
+
+
+
+
+
+
+
+
+
+
+    .Courses-details-top{
+        flex-wrap: wrap;
+    }
+    .c-d-top-singleBox{
+        width: 48%;
+        margin-bottom: 10px;
+    }
+}
+@media (max-width: 500px) {
+    #first-section{
+        background-position: -440px 0px;
+        
+    }
+    /* second section */
+
+    .access-parent{
+        flex-wrap: wrap;
+    }
+    .access-child{
+        width: 100%;
+    }
+
+
+
+
+
+}
+@media (max-width: 320px) {
+    #first-section{
+        background-position: -561px -3px;
+
+        
+    }
+}
